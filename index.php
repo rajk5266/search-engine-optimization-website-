@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>bseog</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
@@ -151,8 +151,8 @@
     <section class="package-details-left-to-right">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 col-xs-12 ml-auto align-self-center">
-          <div class="col-lg-6 col-md-12">
+        <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
+          <div class="col-lg-12 col-md-12">
             <div class="">
               <h2> Bronze SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
@@ -162,15 +162,21 @@
              <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
+        <div class="col-lg-4 col-md-12 col-xs-12">
+          <div class="img">
+            <img src="images/logo.png" alt="">
+          </div>
+        </div>
       </div>
+      
     </div>
   </section>    
 
     <section class="package-details-right-to-left">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 col-xs-12 ml-auto align-self-center">
-          <div class="col-lg-6 col-md-12">
+        <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
+          <div class="col-lg-12 col-md-12">
             <div class="">
               <h2> Silver SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
@@ -180,6 +186,11 @@
              <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
+        <div class="col-lg-4 col-md-12 col-xs-12">
+          <div class="img">
+            <img src="images/logo.png" alt="">
+          </div>
+        </div>
       </div>
     </div>
   </section>    
@@ -187,8 +198,8 @@
     <section class="package-details-left-to-right">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 col-xs-12 ml-auto align-self-center">
-          <div class="col-lg-6 col-md-12">
+        <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
+          <div class="col-lg-12 col-md-12">
             <div class="">
               <h2> Gold SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
@@ -198,6 +209,11 @@
              <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
+        <div class="col-lg-4 col-md-12 col-xs-12">
+          <div class="img">
+            <img src="images/logo.png" alt="">
+          </div>
+        </div>
       </div>
     </div>
   </section>    
@@ -205,8 +221,8 @@
     <section class="package-details-right-to-left">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 col-xs-12 ml-auto align-self-center">
-          <div class="col-lg-6 col-md-12">
+        <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
+          <div class="col-lg-12 col-md-12">
             <div class="">
               <h2> Platinum SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
@@ -216,11 +232,52 @@
              <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
+        <div class="col-lg-4 col-md-12 col-xs-12">
+          <div class="img">
+            <img src="images/logo.png" alt="">
+          </div>
+        </div>
       </div>
     </div>
   </section>    
 
     <!-- PACKAGES DETAILS  -->
+
+
+    <!-- CASE STUDIES  -->
+    <div class="container">
+      <div class="row">
+        
+      </div>
+      <div class="row case-studies-section-row">
+          <div class="col col-12 case-studies-section-head">
+            <h1>Case studies</h1>
+          </div>
+          <div class="col col-12 col-sm-10 col-md-5 col-lg-3">
+            <div class="case-studies-section-images">
+              <img src="images/casestudies.jpg" alt="">
+            </div>
+          </div>
+          <div class="col col-12 col-sm-10 col-md-5 col-lg-3">
+            <div class="case-studies-section-images">
+              <img src="images/casestudies.jpg" alt="">
+            </div>
+          </div>
+          <div class="col col-12 col-sm-10 col-md-5 col-lg-3">
+            <div class="case-studies-section-images">
+              <img src="images/casestudies.jpg" alt="">
+            </div>
+          </div>
+          <div class="col col-12 case-studies-section-button">
+          <a href="caseStudies.php" class="btn btn-outline" >Read More</a>
+        </div>
+
+      </div>
+      <div class="row">
+        
+      </div>
+    </div>
+    <!-- CASE STUDIES  -->
 
 
 

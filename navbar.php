@@ -9,7 +9,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="index.php">Home</a>
         <a class="nav-link" href="#">About Us</a>
         <a class="nav-link" href="caseStudies.php">Case Studies</a>
         <a class="nav-link" href="#">Blogs</a>

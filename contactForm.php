@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container contact-container">
         <h1>Contact Us</h1>
       <form action="contactProcess.php" method="POST">
             <div class="form-group">
@@ -14,7 +14,7 @@
                 <textarea id="message" name="message" required></textarea>
             </div>
             <div class="form-group">
-                <button type="submit">Submit</button>
+                <button class="form-button" type="submit">Submit</button>
             </div>
 
         </form>

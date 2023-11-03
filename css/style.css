@@ -1,4 +1,11 @@
 
+@font-face{
+    font-family: myFont;
+    src: url('font/font.ttf');
+}
+body{
+    background-color: rgb(231, 185, 231);
+}
 .navbar{
     background-color: black !important;
 }
@@ -26,6 +33,7 @@
 .navbar-toggler{
     color: purple;
 }
+/*  */
 .nav-link{
     font-size: 20px;
     
@@ -164,7 +172,14 @@
     margin: 20px;
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.package-details-left-to-right img{
+    width: 100%;
+    height: auto;
 }
 .package-details-right-to-left{
     background: linear-gradient(to left, rgb(251, 2, 251), purple);
@@ -172,13 +187,120 @@
     margin: 20px;
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
+.package-details-right-to-left img{
+    width: 100%;
+    height: auto;
+}
+
+
+.package-details-left-to-right {
+    --a: 8deg; /* control the angle of rotation (the smaller, the better) */
+    width: 80%;
+    height: 500px;
+    aspect-ratio: 1;
+    border-radius: 20px;
+    transform: perspective(1700) rotate3d(var(--r,1,-1),0,calc(var(--i,1)*var(--a)));
+    -webkit-mask: 
+      linear-gradient(135deg,#000c 40%,#000,#000c 60%)
+      100% 100%/250% 250%;
+    transition: .4s;
+    cursor: pointer;
+  }
+  .alt {
+    --r: 1,1;
+    -webkit-mask: 
+      linear-gradient(45deg,#000c 40%,#000,#000c 60%)
+      0 100%/250% 250%;
+  }
+  .package-details-left-to-right:hover {
+    --i: -1;
+    -webkit-mask-position: 0 0;
+  }
+  .alt:hover {
+    -webkit-mask-position: 100% 0;
+  }
+.package-details-right-to-left {
+    --a: 8deg; /* control the angle of rotation (the smaller, the better) */
+    width: 80%;
+    height: 500px;
+    aspect-ratio: 1;
+    border-radius: 20px;
+    transform: perspective(1700) rotate3d(var(--r,1,-1),0,calc(var(--i,1)*var(--a)));
+    -webkit-mask: 
+      linear-gradient(135deg,#000c 40%,#000,#000c 60%)
+      100% 100%/250% 250%;
+    transition: .4s;
+    cursor: pointer;
+  }
+  .alt {
+    --r: 1,1;
+    -webkit-mask: 
+      linear-gradient(45deg,#000c 40%,#000,#000c 60%)
+      0 100%/250% 250%;
+  }
+  .package-details-right-to-left:hover {
+    --i: -1;
+    -webkit-mask-position: 0 0;
+  }
+  .alt:hover {
+    -webkit-mask-position: 100% 0;
+  }
+  
 /* PACKAGE DETAILS  */
 
 
 
+/* CASE STUDIES  */
+.case-studies-section-row{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(248, 218, 248), rgb(247, 165, 247));
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: rgba(246, 125, 254, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+.case-studies-section-head{
+    text-align: center;
+}
+.case-studies-section-row .col{
+    margin: 20px;
+}
+.case-studies-section-row img{
+    width: 100%;
+    border-radius: 5px;
+    opacity: 0.7;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.case-studies-section-button a{
+    float: right;
+}
+/* CASE STUDIES  */
+
+
+
 /* CONTACT FORM  */
+.contact-container h1{
+    text-align: center;
+}
+.contact-container{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(218, 139, 218);
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(255, 250, 250);
+}
+form{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .form-group {
     margin-bottom: 25px;
@@ -207,7 +329,7 @@ input:focus, textarea:focus {
     background-color: #e0e0e0;
 }
 
-button {
+.form-button {
     background-color: rgb(206, 2, 206);
     color: white;
     padding: 12px 30px;
@@ -218,7 +340,7 @@ button {
     transition: background 0.3s ease;
 }
 
-button:hover {
+.form-button:hover {
     background-color: purple;
 }
 

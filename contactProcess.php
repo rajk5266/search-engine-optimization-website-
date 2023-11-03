@@ -25,11 +25,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
 }
 
-// echo '<script>
-// setTimeout(function(){
-//     window.location.href = "index.php";
-// }, 3000); // 3-second delay
-// </script>';
+
 
 ?>
 
@@ -48,8 +44,14 @@ if(mail($to, $subject, $message, $headers)){
     </button>
   </div>';   
 }else{
-    echo "Email failed"
+    echo "Email failed";
 }
+
+echo '<script>
+setTimeout(function(){
+    window.location.href = "index.php";
+}, 3000); // 3-second delay
+</script>';
 ?>
 
 

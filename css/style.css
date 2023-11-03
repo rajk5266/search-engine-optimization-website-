@@ -1,9 +1,10 @@
 
 @font-face{
     font-family: myFont;
-    src: url('font/font.ttf');
+    src: url('font/Roman.ttf');
 }
 body{
+    font-family:myFont;
     background-color: rgb(231, 185, 231);
 }
 .navbar{
@@ -344,6 +345,16 @@ input:focus, textarea:focus {
     background-color: purple;
 }
 
+.contact-us-image{
+    display: flex;
+    justify-content: center;
+}
+.contact-us-image img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
 /* CONTACT FORM  */
 
 

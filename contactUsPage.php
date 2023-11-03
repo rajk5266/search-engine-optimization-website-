@@ -16,10 +16,22 @@
 <!-- NAVBAR  -->
 
 
+
+
+
 <!-- CONTACT FORM  -->
 <?php include "contactForm.php"; ?>
 <!-- CONTACT FORM  -->
 
+
+
+<!-- CONTACT US IMAGE  -->
+<div class="row contact-us-image">
+    <div class="col col-6">
+        <img src="images/contact.png" alt="">
+    </div>
+</div>
+<!-- CONTACT US IMAGE  -->
 
     
     <!-- FOOTER  -->

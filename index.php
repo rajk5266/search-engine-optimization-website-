@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    
 </head>
 <body>
     <!-- NAVBAR  -->
@@ -22,7 +23,6 @@
 
     <div class="row">
         <div class="col"></div>
-
     </div>
   </div>
     <!-- HERO BANNER  -->
@@ -31,21 +31,264 @@
     <!-- INTRODUCTION  -->
     <div class="container intro-container">
         <div class="row intro-container-title-row">
-            <div class="col col-8 intro-container-title-col animate">
-                <div class="h1">Search Engine Optimization</div>
-                <div class="h1">Services</div>
+            <div class="col col-12 col-sm-12 col-md-10 col-lg-8 intro-container-title-col animate">
+                <h1 class="h1">Best Search Engine Optimization</h1>
+                <h1 class="h1">Agency</h1>
             </div>
-            <div class="col col-12">
+            <div class="col col-12 col-sm-12 col-md-10 col-lg-8">
                 <div class="intro-para">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod beatae facere quidem, veniam provident aperiam voluptatum facilis commodi sed rerum tenetur expedita quis. A veritatis nesciunt similique! Laborum quia error reiciendis beatae impedit mollitia ea quidem est quas optio ab sunt recusandae cumque, deserunt vero explicabo temporibus, porro voluptatibus dignissimos.</p>
+                    <p>This is the place to conclude your search for the top SEO agency in Mumbai, India. Your one-stop shop for all things digital marketing is Best SEO Agency in Mumbai. We can assist you in ranking #1 on search engine result pages (SERPs) for your desired keywords. We can also draw real, high-quality traffic to your website, which could eventually result in a successful business venture. Our SEO services are reasonably priced to fit any business's budget.</p>
                 </div>
                 <div class="intro-para">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod beatae facere quidem, veniam provident aperiam voluptatum facilis commodi sed rerum tenetur expedita quis. A veritatis nesciunt similique! Laborum quia error reiciendis beatae impedit mollitia ea quidem est quas optio ab sunt recusandae cumque, deserunt vero explicabo temporibus, porro voluptatibus dignissimos.</p>
+                    <p>With Best SEO Agency in Mumbai, you will not be outsourcing your project but rather having us as your SEO partner, who will help you rank right and recognize the factual online digital marketing plan.</p>
+                </div>
+                <div class="intro-para">
+                    <p>Our SEO Services assures you about the ethical and best practices to be deployed in your website delivering you the best output. Check out some of our Standard SEO Plans listed below that may fit your requirements. If not we are happy to offer you customized SEO Package as per your requirements.</p>
                 </div>
             </div>
         </div>
+
+        <div class="row intro-container-title-row">
+            <div class="col col-12 col-sm-12 col-md-10 col-lg-8 intro-container-title-col animate">
+                <h1 class="h1">What is SEO & how it works ?</h1>
+            </div>
+            <div class="col col-12 col-sm-12 col-md-10 col-lg-8">
+                <p>Search Engine Optimization (SEO), as mentioned in its name simply means optimizing your web pages for search engines. There are numerous factors which determine whether your web page will rank in Google’s 1st Page or will get lost in thousands of pages. SEO experts help you identify those factors and make necessary changes On & OFF your website to give you highest visibility and ranking in SERPs. Higher ranking leads to more brand awareness, increase in website traffic further leading to more inquires and sales for your company.</p>
+                <p>SEO works in a specific manner. It all starts with the search engines (like Google). Every search engine sends out the web crawlers to gather all the information and content they can from across the internet in order to build an index. When a query comes through, the search engine’s algorithm shifts through the index in order to provide the most relevant and important information in the search results. Now, out of 100000000 of web pages showing information around same user query, how Google determines the best one? This is where SEO comes!</p>
+                <p>In order for your website to rank higher, it needs to meet certain criteria and be relevant for the people who are coming to your website. We can further divide them into ON Page, OFF Page & Technical SEO.</p>
+            </div>
+        </div>
+
+        <!-- SEO TYPES  -->
+
+      <div class="container">
+        <div class="row seo-type">
+          <div class="col col-10 col-sm-10 col-md-5 col-lg-3 seo-card">
+            <div class="title">
+              <h3>ON Page</h3>
+              <h3>SEO</h3>
+            </div>
+
+            <div class="desc">
+              <p>ON Page SEO refers to the elements which you optimize within your website in order to improve its quality for Search Engines as well as Users. A well optimised page helps Google understand about your website, the content & the context which helps it further to organise and then rank your page for better & relevant reach. Some of the ON Page factors are –</p>
+            </div>
+            <div class="list">
+              <ul>
+                <li>Page Content</li>
+                <li>Readability</li>
+                <li>Keyword Utilization</li>
+                <li>UI & UX Design</li>
+                <li>URL</li>
+                <li>cgvhdcvbd</li>
+                <li>Pbs jnxs</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col col-10 col-sm-10 col-md-5 col-lg-3 seo-card">
+            <div class="title">
+              <h3>OFF Page</h3>
+              <h3>SEO</h3>
+            </div>
+
+            <div class="desc">
+              <p>Off-Page SEO, in contrast to On-Page SEO, focuses on the strategies and activities that take place outside of your website to improve its search engine rankings and online visibility. Off-Page SEO is all about building your website's authority, credibility, and reputation in the digital landscape. Some of the key Off-Page SEO factors include:</p>
+            </div>
+            <div class="list">
+              <ul>
+                <li>Backlinks</li>
+                <li>Social Media Management</li>
+                <li>Keyword Utilization</li>
+                <li>Content Marketing</li>
+                <li>Influencer Marketing</li>
+                <li>Local SEO</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col col-10 col-sm-10 col-md-5 col-lg-3 seo-card">
+            <div class="title">
+              <h3>Technical SEO</h3>
+              <h3>SEO</h3>
+            </div>
+
+            <div class="desc">
+              <p>Technical SEO involves optimizing the technical aspects of your website to enhance its search engine visibility and user experience. It focuses on ensuring that search engines can efficiently crawl, index, and understand your website's content. Here are some key elements of Technical SEO:</p>
+            </div>
+            <div class="list">
+              <ul>
+                <li>Site Speed Optimization</li>
+                <li>Mobile Friendliness</li>
+                <li>Crawlability</li>
+                <li>XML Sitemaps</li>
+                <li>Canonicalization</li>
+                <li>HTTPS</li>
+                <li>Page Speed Insights</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
     </div>
     <!-- INTRODUCTION  -->
+
+
+
+     <!-- WHY CHOOSE US  -->
+     <div class="container-fluid why-choose-us">
+      <h1>Why Us ?</h1>
+      <div class="row">
+        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+          <div class="row">
+            <div class="image">
+              <img src="images/logo.png" alt="">
+            </div>
+            <div class="title">
+              <h3>Goal Based</h3>
+              <p>Services</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+          <div class="row">
+            <div class="image">
+              <img src="images/logo.png" alt="">
+            </div> 
+            <div class="title">
+              <h3>Affordable</h3>
+              <p>Pricing</p>
+            </div>
+            
+          </div>
+        </div>
+
+        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+          <div class="row">
+            <div class="image">
+              <img src="images/logo.png" alt="">
+            </div>
+            <div class="title">
+              <h3>Dedicated</h3>
+              <p>SEO Manager</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+          <div class="row">
+            <div class="image">
+              <img src="images/logo.png" alt="">
+            </div>
+            <div class="title">
+              <h3>100%</h3>
+              <p>Transparency</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- WHY CHOOSE US  -->
+
+
+    <!-- WHAT WE OFFER  -->
+    <div class="container what-we-offer-container">
+      <div class="row what-we-offer-row">
+        <div class="col col-12">
+          <h1>What We Offer ?</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
+            <div class="card" style="width: 18rem;">
+                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+               <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+               </div>
+            </div>
+        </div>    
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
+            <div class="card" style="width: 18rem;">
+                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+               <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+               </div>
+            </div>
+        </div>    
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
+            <div class="card" style="width: 18rem;">
+                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+               <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+               </div>
+            </div>
+        </div>    
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
+            <div class="card" style="width: 18rem;">
+                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+               <div class="card-body">
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+               </div>
+            </div>
+        </div>    
+      </div>
+    </div>
+    <!-- WHAT WE OFFER  -->
+
+
+    <!-- HOW DO WE DO ?  -->
+
+    <div class="container">
+      <div class="row">
+        <div class="col col-12" style="text-align: center">
+          <h1>How We Do SEO ?</h1>
+        </div>
+      </div>
+
+      <div class="row how-we-do-row">
+        <div class="col col-10 col-sm-10 col-md-5 col-lg-3 card">
+          <div class="title">
+            <h4>Website Audit</h4>
+          </div>
+          <div class="desc">Through this Audit we answer the question, what is the reason for your website being left out from your competitors and search engines. Identifying the technical glitches that are being hurdle in your ranking factors. We aim to clean up your website in order to improve its efficiency to rank healthy in SERP. We also analyse your competitors presence and understand the need, efforts and timeframe required to achieve the results.</div>
+        </div>
+
+        <div class="col col-10 col-sm-10 col-md-5 col-lg-3 card">
+          <div class="title">
+            <h4>Keyword Research</h4>
+          </div>
+          <div class="desc">Identifying and Targeting the Right set of key phrase is important to optimize the Pages Successfully. As it triggers the right search queries helping you get the right visitors that may lead to sales and conversions. Understanding this crucial aspect, our SEO specialist at TG Connect SEO Agency in Mumbai spend a set amount of time in having a deep keyword research and identifying the best key phrases and words that will help you rank.</div>
+        </div>
+
+        <div class="col col-10 col-sm-10 col-md-5 col-lg-3 card">
+          <div class="title">
+            <h4>On-Page SEO Optimization</h4>
+          </div>
+          <div class="desc">Being one of the Best SEO Company in Mumbai, we make sure to perform a broad link audit to know your site’s backlink profile. This helps us identify low quality links that are linked to your site. We replace them with new & high quality score links. Our team also prepare a comprehensive Link Building strategy to increase the quality and number of inbound links that points to your website.</div>
+        </div>
+
+        <div class="col col-10 col-sm-10 col-md-5 col-lg-3 card">
+          <div class="title">
+            <h4>Off-Page SEO Optimization</h4>
+          </div>
+          <div class="desc">Being one of the Best SEO Company in Mumbai, we offer extensive SEO Strategies for various Ecommerce platforms like Mambo, Magneto, Joomla, X-cart, Yahoo Shopping and Others. We help you evaluate the strength and weakness of your online store and optimize it as per your needs to attract the search engines and users.</div>
+        </div>
+
+        <div class="col col-10 col-sm-10 col-md-5 col-lg-3 card">
+          <div class="title">
+            <h4>SEO Strategies for E-commerce</h4>
+          </div>
+          <div class="desc">Being one of the Best SEO Company in Mumbai, we offer extensive SEO Strategies for various Ecommerce platforms like Mambo, Magneto, Joomla, X-cart, Yahoo Shopping and Others. We help you evaluate the strength and weakness of your online store and optimize it as per your needs to attract the search engines and users.</div>
+        </div>
+      </div>
+    </div>
+    <!-- HOW DO WE DO ?  -->
+
+   
 
 
     <!-- OUR PACKAGES -->
@@ -68,7 +311,7 @@
                        </div>
                     </div>
                     
-                    <div class="package-description">
+                    <div class="package-description animate">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
                     </div>
                 </div>
@@ -88,7 +331,7 @@
                        </div>
                     </div>
                     
-                    <div class="package-description">
+                    <div class="package-description animate">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
                     </div>
                 </div>
@@ -108,7 +351,7 @@
                        </div>
                     </div>
                     
-                    <div class="package-description">
+                    <div class="package-description animate">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
                     </div>
                 </div>
@@ -128,7 +371,7 @@
                        </div>
                     </div>
                     
-                    <div class="package-description">
+                    <div class="package-description animate">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
                     </div>
                 </div>
@@ -148,7 +391,7 @@
 
 
     <!-- PACKAGES DETAILS  -->
-    <section class="package-details-left-to-right">
+    <section class="bronze">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
@@ -172,7 +415,7 @@
     </div>
   </section>    
 
-    <section class="package-details-right-to-left">
+    <section class="silver">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
@@ -195,7 +438,7 @@
     </div>
   </section>    
 
-    <section class="package-details-left-to-right">
+    <section class="gold">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
@@ -218,8 +461,8 @@
     </div>
   </section>    
 
-    <section class="package-details-right-to-left">
-    <div class="container">
+    <section class="platinum">
+     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
           <div class="col-lg-12 col-md-12">

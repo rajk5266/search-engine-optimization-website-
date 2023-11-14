@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>bseog</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    
     
 </head>
 <body>
@@ -130,8 +131,6 @@
         </div>
       </div>
 
-
-
     </div>
     <!-- INTRODUCTION  -->
 
@@ -141,10 +140,10 @@
      <div class="container-fluid why-choose-us">
       <h1>Why Us ?</h1>
       <div class="row">
-        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+        <div class="col col-10 col-sm-10 col-md-6 col-lg-3 animate">
           <div class="row">
             <div class="image">
-              <img src="images/logo.png" alt="">
+              <img src="images/why-us/Goal Based Services.png" alt="">
             </div>
             <div class="title">
               <h3>Goal Based</h3>
@@ -153,10 +152,10 @@
           </div>
         </div>
 
-        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+        <div class="col col-10 col-sm-10 col-md-6 col-lg-3 animate">
           <div class="row">
             <div class="image">
-              <img src="images/logo.png" alt="">
+              <img src="images/why-us/Affordable Price.png" alt="">
             </div> 
             <div class="title">
               <h3>Affordable</h3>
@@ -166,10 +165,10 @@
           </div>
         </div>
 
-        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+        <div class="col col-10 col-sm-10 col-md-6 col-lg-3 animate">
           <div class="row">
             <div class="image">
-              <img src="images/logo.png" alt="">
+              <img src="images/why-us/Seo Manager.png" alt="">
             </div>
             <div class="title">
               <h3>Dedicated</h3>
@@ -178,10 +177,10 @@
           </div>
         </div>
 
-        <div class="col col-12 col-sm-10 col-md-6 col-lg-3">
+        <div class="col col-10 col-sm-10 col-md-6 col-lg-3 animate">
           <div class="row">
             <div class="image">
-              <img src="images/logo.png" alt="">
+              <img src="images/why-us/transparancy.png" alt="">
             </div>
             <div class="title">
               <h3>100%</h3>
@@ -202,40 +201,55 @@
           <h1>What We Offer ?</h1>
         </div>
       </div>
-      <div class="row">
-        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
-            <div class="card" style="width: 18rem;">
-                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+      <div class="row what-we-offer-card-row">
+
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3 animate">
+            <div class="offer-card" >
+              <div class="offer-image">
+                <img class="card-img-top" src="images/services/Keyboard research.png" alt="Card image cap">
+              </div>
                <div class="card-body">
+                  <h3 class="card-text">Keyword Research & Analysis</h3>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                </div>
             </div>
         </div>    
-        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
-            <div class="card" style="width: 18rem;">
-                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3 animate">
+            <div class="offer-card" >
+              <div class="offer-image">
+                <img class="card-img-top" src="images/services/On page seo.png" alt="Card image cap">
+              </div>
                <div class="card-body">
+                  <h3 class="card-text">On Page SEO</h3>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                </div>
             </div>
         </div>    
-        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
-            <div class="card" style="width: 18rem;">
-                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3 animate">
+            <div class="offer-card" >
+              <div class="offer-image">
+                <img class="card-img-top" src="images/services/off page seo.png" alt="Card image cap">
+              </div>
                <div class="card-body">
+                  <h3 class="card-text">Off Page SEO</h3>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                </div>
             </div>
         </div>    
-        <div class="col col-12 col-sm-5 col-md-5 col-lg-3">
-            <div class="card" style="width: 18rem;">
-                 <img class="card-img-top" src="images/logo.png" alt="Card image cap">
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-3 animate">
+            <div class="offer-card" >
+              <div class="offer-image">
+                <img class="card-img-top" src="images/services/technical seo.png" alt="Card image cap">
+              </div>
                <div class="card-body">
+                  <h3 class="card-text">Technical SEO</h3>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                </div>
             </div>
         </div>    
       </div>
+   
+
     </div>
     <!-- WHAT WE OFFER  -->
 
@@ -295,7 +309,7 @@
     <div class="container">
         <div class="row">
             <div class="col col-12 our-package-col">
-                <h1>Our PAckages</h1>
+                <h1>Our Packages</h1>
             </div>
         </div>
         <div class="row package-container-row">
@@ -307,12 +321,12 @@
                           <h3>Bronze</h3>
                        </div>
                        <div class="col package-name">
-                          <h3>Package name</h3>
+                          <h3>Starter SEO</h3>
                        </div>
                     </div>
                     
                     <div class="package-description animate">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
+                        <p>Begin your SEO journey with essential optimization. Perfect for newcomers, get your website on the path to online success.</p>
                     </div>
                 </div>
                 <div>
@@ -327,12 +341,12 @@
                           <h3>Silver</h3>
                        </div>
                        <div class="col package-name">
-                          <h3>Package name</h3>
+                          <h3>Optimize Plus</h3>
                        </div>
                     </div>
                     
                     <div class="package-description animate">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
+                        <p>Elevate your SEO efforts with enhanced features. Ideal for small businesses seeking a competitive edge in the online arena.</p>
                     </div>
                 </div>
                 <div>
@@ -347,12 +361,12 @@
                           <h3>Gold</h3>
                        </div>
                        <div class="col package-name">
-                          <h3>Package name</h3>
+                          <h3>Business Pro</h3>
                        </div>
                     </div>
                     
                     <div class="package-description animate">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
+                        <p>Unlock the full potential of SEO with comprehensive solutions. Tailored for growing businesses aiming to dominate their online market.</p>
                     </div>
                 </div>
                 <div>
@@ -367,12 +381,12 @@
                           <h3>platinum</h3>
                        </div>
                        <div class="col package-name">
-                          <h3>Package name</h3>
+                          <h3>Elite SEO</h3>
                        </div>
                     </div>
                     
                     <div class="package-description animate">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum iure quia perferendis, temporibus enim ullam iusto, sequi assumenda nihil, vitae fugit aut voluptatem qui? Alias cumque perspiciatis unde quia exercitationem!</p>
+                        <p>Access top-tier SEO services designed for established businesses. Achieve online excellence and surpass your competition with ease.</p>
                     </div>
                 </div>
                 <div>
@@ -391,7 +405,7 @@
 
 
     <!-- PACKAGES DETAILS  -->
-    <section class="bronze">
+  <section class="bronze">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
@@ -400,12 +414,18 @@
               <h2> Bronze SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
             </div>
-             <p>Our Gold SEO Package is designed for Businesses that are running short on time to see the results. Designed by experts at TG Connect best SEO Company in Mumbai this package will help you achieve your objectives and goals in limited time. </p>
-             <p>Gold Package is a combination of Bronze and silver with additional submissions, comments and bookmarking feature, ensuring you increased web traffic in less time comparatively. </p>
-             <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
+             <p>Our Starter SEO Package is the perfect choice for those new to the world of search engine optimization. We'll kickstart your online journey with essential optimization techniques, making sure your website is on the right track. With this package, you can expect:</p>
+             <!-- <p>Gold Package is a combination of Bronze and silver with additional submissions, comments and bookmarking feature, ensuring you increased web traffic in less time comparatively. </p> -->
+             <ul>
+              <li><span>Keyword Research:</span> We'll identify key terms relevant to your business.</li>
+              <li><span>On-Page SEO:</span> Basic optimization for your website's content and structure.</li>
+              <li><span>Content Recommendations:</span> Tips on creating SEO-friendly content.</li>
+              <li><span>Monthly Performance Reports:</span> Stay updated on your progress.</li>
+             </ul>
+             <a href="contactUsPage.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-12 col-xs-12">
+        <div class="col-lg-4 col-md-12 col-xs-12" style="margin: auto;">
           <div class="img">
             <img src="images/logo.png" alt="">
           </div>
@@ -415,7 +435,7 @@
     </div>
   </section>    
 
-    <section class="silver">
+  <section class="silver">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
@@ -424,12 +444,18 @@
               <h2> Silver SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
             </div>
-             <p>Our Gold SEO Package is designed for Businesses that are running short on time to see the results. Designed by experts at TG Connect best SEO Company in Mumbai this package will help you achieve your objectives and goals in limited time. </p>
-             <p>Gold Package is a combination of Bronze and silver with additional submissions, comments and bookmarking feature, ensuring you increased web traffic in less time comparatively. </p>
-             <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
+             <p>The Optimize Plus Package is designed to elevate your SEO efforts. It's ideal for small businesses looking to gain a competitive edge in the online arena. With this package, you'll receive:</p>
+             <ul>
+              <li><span>Advanced Keyword Analysis:</span>Identifying high-potential keywords.</li>
+              <li><span>On-Page and Off-Page SEO:</span>Comprehensive website optimization.</li>
+              <li><span>Content Strategy:</span>Tailored content recommendations for your niche.</li>
+              <li><span>Monthly Analytics Reports:</span>In-depth insights into your website's performance.</li>
+             </ul>
+             <!-- <p>Gold Package is a combination of Bronze and silver with additional submissions, comments and bookmarking feature, ensuring you increased web traffic in less time comparatively. </p> -->
+             <a href="contactUsPage.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-12 col-xs-12">
+        <div class="col-lg-4 col-md-12 col-xs-12" style="margin: auto;">
           <div class="img">
             <img src="images/logo.png" alt="">
           </div>
@@ -438,7 +464,7 @@
     </div>
   </section>    
 
-    <section class="gold">
+  <section class="gold">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
@@ -447,12 +473,17 @@
               <h2> Gold SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
             </div>
-             <p>Our Gold SEO Package is designed for Businesses that are running short on time to see the results. Designed by experts at TG Connect best SEO Company in Mumbai this package will help you achieve your objectives and goals in limited time. </p>
-             <p>Gold Package is a combination of Bronze and silver with additional submissions, comments and bookmarking feature, ensuring you increased web traffic in less time comparatively. </p>
-             <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
+             <p>Our Business Pro Package is for established businesses seeking to dominate their online market. This package offers an all-encompassing SEO solution, including:</p>
+             <ul>
+              <li><span>Advanced Keyword Research:</span> Targeting high-value keywords.</li>
+              <li><span>Full-Scale SEO Audit:</span>In-depth analysis and optimization.</li>
+              <li><span>Custom Content Strategy:</span>Tailored content creation plan.</li>
+              <li><span>Monthly Analytics and Ranking Reports:</span>Track your growth.</li>
+             </ul>
+             <a href="contactUsPage.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-12 col-xs-12">
+        <div class="col-lg-4 col-md-12 col-xs-12" style="margin: auto;">
           <div class="img">
             <img src="images/logo.png" alt="">
           </div>
@@ -461,8 +492,8 @@
     </div>
   </section>    
 
-    <section class="platinum">
-     <div class="container">
+  <section class="platinum">
+    <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-12 col-xs-12 ml-auto align-self-center">
           <div class="col-lg-12 col-md-12">
@@ -470,12 +501,17 @@
               <h2> Platinum SEO Package</h2>
               <span class="bottom-border tw-mt-20 tw-mb-30"></span>
             </div>
-             <p>Our Gold SEO Package is designed for Businesses that are running short on time to see the results. Designed by experts at TG Connect best SEO Company in Mumbai this package will help you achieve your objectives and goals in limited time. </p>
-             <p>Gold Package is a combination of Bronze and silver with additional submissions, comments and bookmarking feature, ensuring you increased web traffic in less time comparatively. </p>
-             <a href="contact.php" class="btn btn-dark tw-mt-30">Get Quote</a>
+             <p>The Elite SEO Suite is the top-tier SEO service for large enterprises. It's designed to help you achieve online excellence and surpass your competition. This package includes:</p>
+             <ul>
+              <li><span>Premium Keyword Analysis:</span>Identifying lucrative keywords.</li>
+              <li><span>Comprehensive SEO Audit:</span>In-depth optimization of your site.</li>
+              <li><span>Exclusive Content Strategy:</span> Personalized content creation plan.</li>
+              <li><span>Monthly Analytics, Ranking, and Competitor Reports:</span>Stay ahead of the game.</li>
+             </ul>
+             <a href="contactUsPage.php" class="btn btn-dark tw-mt-30">Get Quote</a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-12 col-xs-12">
+        <div class="col-lg-4 col-md-12 col-xs-12" style="margin: auto;">
           <div class="img">
             <img src="images/logo.png" alt="">
           </div>
@@ -534,6 +570,6 @@
     <!-- FOOTER  -->
 
     <script src="js/main.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 </html>

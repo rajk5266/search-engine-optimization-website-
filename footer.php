@@ -4,8 +4,9 @@
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget subscribe no-box">
-                <h5 class="widget-title">COMPANY NAME<span></span></h5>
-                <p>About the company, little discription will goes here..</p>
+                <h5 class="widget-title">BEST SEARCH ENGINE OPTIMIZATION AGENCY<span></span></h5>
+                <p>Location</p>
+                <p>Navi Mumbai, India</p>
               </div>
             </div>
 
@@ -15,33 +16,33 @@
                 <ul class="thumbnail-widget">
                   <li>
                     <div class="thumb-content">
-                      <a href="#.">Get Started</a>
+                      <a href="index.php">Home</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content">
-                      <a href="#.">Top Leaders</a>
+                      <a href="index.php">About Us</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content">
-                      <a href="#.">Success Stories</a>
+                      <a href="CaseStudies.php">Case Studies</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content">
-                      <a href="#.">Event/Tickets</a>
+                      <a href="#.">Blogs</a>
                     </div>
                   </li>
                   <li>
                     <div class="thumb-content"><a href="#.">News</a></div>
                   </li>
                   <li>
-                    <div class="thumb-content"><a href="#.">Lifestyle</a></div>
+                    <div class="thumb-content"><a href="ContactUsPage.php">Contact Us</a></div>
                   </li>
-                  <li>
+                  <!-- <li>
                     <div class="thumb-content"><a href="#.">About</a></div>
-                  </li>
+                  </li> -->
                 </ul>
               </div>
             </div>
@@ -49,7 +50,7 @@
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget no-box">
                 <h5 class="widget-title">Get Started<span></span></h5>
-                <p>Get access to your full Training and Marketing Suite.</p>
+                <p>Connect with us to boost your reach..</p>
                 <a class="btn" href="https://bit.ly/3m9avif" target="_blank"
                   >Subscribe Now</a
                 >
@@ -60,7 +61,7 @@
               <div class="widget no-box">
                 <h5 class="widget-title">Contact Us<span></span></h5>
                 <p>
-                  <a href="mailto:info@domain.com" title="glorythemes"
+                  <a href="mailto:info@domaincom" title="glorythemes" 
                     >googlemybusinessprofileagency.com</a
                   >
                 </p>

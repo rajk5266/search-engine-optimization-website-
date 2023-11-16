@@ -4,9 +4,36 @@
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget subscribe no-box">
-                <h5 class="widget-title">BEST SEARCH ENGINE OPTIMIZATION AGENCY<span></span></h5>
-                <p>Location</p>
-                <p>Navi Mumbai, India</p>
+                 <h6 class="widget-title">BEST SEARCH ENGINE OPTIMIZATION AGENCY<span></span></h6>
+                <!-- <p>Location</p> -->
+                <!-- <p>Navi Mumbai, India</p> -->
+              </div>
+            <div class="col-12">
+              <div class="row">
+                  <!-- <div class="col col-12">
+                      <h6>Best search Engine Optimization</h6>
+                  </div> -->
+                  <div class="col col-12">
+                     <div class="image">
+                         <img src="images/" alt="">
+                     </div>
+                  </div>
+                  <div class="col col-12">
+                     <div class="address">
+                         <a  href="geo"><i class="fa fa-map-marker footer-icon" aria-hidden="true"></i>119, Arenja Arcade, Sec-17, Vashi-400703</a>
+                     </div>
+                  </div>
+                  <div class="col col-12">
+                     <div class="phone">
+                       <a  href="tel:+918369459586"><i class="fa fa-phone footer-icon" aria-hidden="true"></i>(+91)9876543210</a>
+                     </div>
+                  </div>
+                  <div class="col col-12">
+                     <div class="email">
+                       <a  href="mailto:digitalmarketingagency919@gmail.com"><i class="fa fa-envelope footer-icon" aria-hidden="true"></i>digitalmarketingagency919@gmail.com</a>
+                     </div>
+                  </div>
+                </div>
               </div>
             </div>
 
@@ -60,11 +87,11 @@
             <div class="col-xs-12 col-sm-6 col-md-3">
               <div class="widget no-box">
                 <h5 class="widget-title">Contact Us<span></span></h5>
-                <p>
+                <!-- <p>
                   <a href="mailto:info@domaincom" title="glorythemes" 
                     >googlemybusinessprofileagency.com</a
                   >
-                </p>
+                </p> -->
                 <ul class="social-footer2">
                   <li class="">
                     <a

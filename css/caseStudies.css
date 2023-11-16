@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,300,300italic,900italic,900,700,700italic,500italic,500,400italic);
 @font-face{
     font-family: myFont;
-    src: url('../font/Quattrocento-Regular.ttf');
+    src: url('../font/AprillaGrotesk-vm10O.ttf');
 }
 body {
     font-family: myFont;

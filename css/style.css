@@ -618,6 +618,17 @@ input:focus, textarea:focus {
 footer{
     background-color: gray;
 }
+#footer .phone, #footer .email, #footer .address{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+#footer .phone a, #footer .email a, #footer .address a{
+    text-decoration: none;
+    color:  purple;
+}
+#footer .phone a:hover, #footer .address a:hover, #footer .email a:hover{
+    color: rgb(235, 4, 235);
+}
 footer .main-footer{  padding: 20px 0;  background: #252525;}
 footer ul{  padding-left: 0;  list-style: none;}
 

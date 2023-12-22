@@ -624,7 +624,10 @@ footer{
 }
 #footer .phone a, #footer .email a, #footer .address a{
     text-decoration: none;
-    color:  purple;
+    color:  white;
+}
+footer .thumbnail-widget li a {
+    color: white;
 }
 #footer .phone a:hover, #footer .address a:hover, #footer .email a:hover{
     color: rgb(235, 4, 235);

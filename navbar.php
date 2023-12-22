@@ -18,10 +18,10 @@
     </div>
   </div>
 </nav>
-<div class="container-fluid">
+<!-- <div class="container-fluid">
 
   <div class="row">
     <div class="col navbar-base"></div>
   </div>
-</div>
+</div> -->
   <!-- NAVBAR  -->

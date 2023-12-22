@@ -19,14 +19,14 @@ p{
 }
 
 .navbar{
-    background-color: black !important;
+    background-color: rgb(255, 255, 255) !important;
 }
-.navbar-base{
+/* .navbar-base{
     border: 13px solid black;
     border-bottom-right-radius: 100%;
     border-bottom-left-radius: 100%;
     z-index: 1;
-}
+} */
 .navbar img{
     width: 180px;
 }
@@ -60,7 +60,7 @@ p{
 
 /* HERO BANNER  */
 .hero-banner-container{
-    margin-top: -40px;
+    /* margin-top: -40px; */
     z-index: 1;
 }
 .hero-banner-container img{
